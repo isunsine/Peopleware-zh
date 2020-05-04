@@ -2,6 +2,7 @@
 
 <img src="./cover.png" style="width: 28%" />
 
+- [前言](./preface.md)
 - [第一部分 管理人力资源](./part1.md)
 - [01 此时此刻，一个项目正在走向失败](./ch1.md)
 - [02 干酪汉堡，做一个，卖一个](./ch2.md)
