@@ -87,6 +87,15 @@ cd Peopleware-zh/
 yarn docs:dev
 ```
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://gdut-yy.github.io/"><img src="https://avatars2.githubusercontent.com/u/33390928?s=460&v=4" width="100px;" /><br /><sub><b>gdut-yy</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/FWangZil"><img src="https://avatars1.githubusercontent.com/u/20198261?s=400&u=acffb003595218f621d5bdd6d3ccc31caa784d5b&v=4" width="100px;" /><br /><sub><b>FWangZil</b></sub></a><br /></td>
+  </tr>
+</table>
+
 ## 更多书籍
 
 [https://github.com/xx-zh/xx-zh-roadmap](https://github.com/xx-zh/xx-zh-roadmap)
